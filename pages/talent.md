@@ -1,5 +1,5 @@
 ---
-permalink: /talent/
+permalink: /business-lines/talent/
 title: Talent
 ---
 ## Talent
