@@ -11,7 +11,7 @@ title: 18F Infrastructure
 * A mechanism to sell on demand at fixed-unit prices.
 * A pre-competed service that is currently in very high demand but is still faster than traditional procurement processes.
 
-##### We currently offer infrastructure and software solutions for:
+#### We currently offer infrastructure and software solutions for:
 
 * Cloud hosting and infrastructure as a service (for example: Amazon Web Services)
 * Content delivery networks (for example: Akamai, AWS CloudFront)
