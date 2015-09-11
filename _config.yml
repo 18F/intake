@@ -27,29 +27,29 @@ logoalt: 18F logo
 navigation:
 - text: Introduction
   url: index.html
-  internal: false
+  internal: true
 - text: Who is 18F?
   url: introducing-18F/
-  internal: false
+  internal: true
 - text: Cost and IAA Details
   url: cost-and-IAA/
-  internal: false
+  internal: true
 - text: 18F's Intake Process
   url: intake-process/
-  internal: false
+  internal: true
 - text: Past Work
   url: past-work/
-  internal: false
+  internal: true
 - text: Lines of Business
-  url: index.html
+  url: business-lines
   internal: true
   children:
   - text: Delivery
     url: https://18f.gsa.gov/delivery/
-    internal: true
+    internal: false
   - text: Consulting
     url: https://18f.gsa.gov/consulting/
-    internal: true
+    internal: false
   - text: Infrastructure
     url: infrastructure/
     internal: true
