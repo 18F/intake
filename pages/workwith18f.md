@@ -19,4 +19,4 @@ Our intake process is itself an iterative project. We wrote [this blog post] (ht
 * Strong product owner
 * To have an exit strategy
 
-#### Email inquiries18f@gsa.gov with your need and we'll be happy to talk further.
+##### Email inquiries18f@gsa.gov with your need and we'll be happy to talk further.
