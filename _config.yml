@@ -51,10 +51,10 @@ navigation:
     url: https://18f.gsa.gov/consulting/
     internal: false
   - text: Infrastructure
-    url: /infrastructure/
+    url: infrastructure/
     internal: true
   - text: Talent
-    url: /talent/
+    url: talent/
     internal: true
 
 
