@@ -34,7 +34,7 @@ navigation:
 - text: Cost and IAA Details
   url: cost-and-IAA/
   internal: false
-- text: 18F's Intake process
+- text: 18F's Intake Process
   url: intake-process/
   internal: false
 - text: Past Work
