@@ -1,6 +1,7 @@
 ---
 permalink: /business-lines/talent/
 title: Talent
+Parent: Business Lines
 ---
 
 ### Recruiting-as-a-Service:
