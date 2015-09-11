@@ -28,9 +28,35 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Explaining 18F's intake process
+- text: Who is 18F?
+  url: introducing-18F/
+  internal: true
+- text: Cost and IAA Details
+  url: cost-and-IAA/
+  internal: true
+- text: 18F's Intake Process
   url: intake-process/
   internal: true
+- text: Past Work
+  url: past-work/
+  internal: true
+- text: Lines of Business
+  url: business-lines/
+  internal: true
+  children:
+  - text: Delivery
+    url: https://18f.gsa.gov/delivery/
+    internal: false
+  - text: Consulting
+    url: https://18f.gsa.gov/consulting/
+    internal: false
+  - text: Infrastructure
+    url: infrastructure/
+    internal: true
+  - text: Talent
+    url: talent/
+    internal: true
+
 
 repos:
 - name: Intake

@@ -2,4 +2,4 @@
 permalink: /
 title: Introduction
 ---
-*Please note that this site is under construction.*
+Check back to this site in the future for content about 18F's intake process! (This page published on 9/11)
