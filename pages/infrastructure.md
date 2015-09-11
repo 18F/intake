@@ -1,8 +1,7 @@
 ---
-permalink: /infrastructure.md
+permalink: /business-lines/infrastructure/
 title: 18F Infrastructure
 ---
-## 18F Infrastructure
 
 18F’s Infrastructure Services team provides agencies with industry-leading infrastructure and software services through Blanket Purchase Agreements (BPAs).
 
