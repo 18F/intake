@@ -27,19 +27,19 @@ logoalt: 18F logo
 navigation:
 - text: Introduction
   url: index.html
-  internal: true
+  internal: false
 - text: Who is 18F?
   url: introducing-18F/
-  internal: true
+  internal: false
 - text: Cost and IAA Details
   url: cost-and-IAA/
-  internal: true
+  internal: false
 - text: 18F's Intake process
   url: intake-process/
-  internal: true
+  internal: false
 - text: Past Work
   url: past-work/
-  internal: true
+  internal: false
 - text: Lines of Business
   url: index.html
   internal: true
