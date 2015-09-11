@@ -43,19 +43,9 @@ navigation:
 - text: Lines of Business
   url: business-lines
   internal: true
-  children:
-  - text: Delivery
-    url: https://18f.gsa.gov/delivery/
-    internal: false
-  - text: Consulting
-    url: https://18f.gsa.gov/consulting/
-    internal: false
-  - text: Infrastructure
-    url: infrastructure/
-    internal: true
-  - text: Talent
-    url: talent/
-    internal: true
+- text: Delivery
+  url: https://18f.gsa.gov/delivery/
+  internal: false
 
 repos:
 - name: Intake
