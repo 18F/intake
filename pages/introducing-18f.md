@@ -1,6 +1,6 @@
 ---
-permalink: /introducting-18f/
-title: Introducting 18F
+permalink: /introducing-18f/
+title: Introducing 18F
 ---
 ## Introducing 18F
 
