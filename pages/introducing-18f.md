@@ -7,7 +7,7 @@ title: Introducing 18F
 
 We're transforming government from the inside out, creating **cultural change** by working with teams inside agencies who want to create great services for the public.
 
-##### We will accomplish our mission by:
+#### We will accomplish our mission by:
 * Putting the needs of the public first
 * Being design-centric, agile, open, and data-driven
 * Deploying tools and services early and often
