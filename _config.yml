@@ -47,13 +47,13 @@ navigation:
   - text: Delivery
     url: https://18f.gsa.gov/delivery/
     internal: true
-    - text: Consulting
+  - text: Consulting
     url: https://18f.gsa.gov/consulting/
     internal: true
-    - text: Infrastructure
+  - text: Infrastructure
     url: infrastructure/
     internal: true
-    - text: Talent
+  - text: Talent
     url: talent/
     internal: true
 
