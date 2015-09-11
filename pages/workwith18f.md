@@ -2,9 +2,11 @@
 permalink: /work-with-18f/
 title: Interested in working with 18F?
 ---
+## Interested in working with 18F?
+
 Our intake process is itself an iterative project. We wrote [this blog post] (https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/) in September 2014; since then, we’ve continued to iterate as we’ve learned from various projects about good questions to ask up front.
 
-## What are we looking for?
+### What are we looking for?
 
 * Impact on the public
 * Core principles
@@ -17,4 +19,4 @@ Our intake process is itself an iterative project. We wrote [this blog post] (ht
 * Strong product owner
 * To have an exit strategy
 
-### Email inquiries18f@gsa.gov with your need and we'll be happy to talk further.
+#### Email inquiries18f@gsa.gov with your need and we'll be happy to talk further.
