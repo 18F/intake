@@ -2,7 +2,6 @@
 permalink: /intake-process/
 title: Explaining 18F's intake process
 ---
-##Explaining 18F's Intake Process
 
 ###Intake Process
 
