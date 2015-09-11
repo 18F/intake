@@ -31,6 +31,9 @@ navigation:
 - text: Who is 18F?
   url: introducing-18F/
   internal: true
+- text: Working with 18F
+  url: work-with-18F/
+  internal: true
 - text: Cost and IAA Details
   url: cost-and-IAA/
   internal: true
