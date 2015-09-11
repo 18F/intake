@@ -1,5 +1,5 @@
 ---
-permalink: /cost-and-iaa/
+permalink: /cost-and-IAA/
 title: Cost and IAA Details
 ---
 ## Cost and IAA Details
