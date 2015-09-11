@@ -41,7 +41,7 @@ navigation:
   url: past-work/
   internal: true
 - text: Lines of Business
-  url: business-lines
+  url: business-lines/
   internal: true
   children:
   - text: Delivery
