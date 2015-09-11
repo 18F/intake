@@ -2,7 +2,6 @@
 permalink: /cost-and-IAA/
 title: Cost and IAA Details
 ---
-## Cost and IAA Details
 
 ### How 18F is funded:
 
