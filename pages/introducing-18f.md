@@ -17,4 +17,5 @@ We are transforming government from the inside out, creating **cultural change**
 
 Relevant blog posts:
 [18F by the numbers] (https://18f.gsa.gov/2015/03/19/18f-by-the-numbers/)
+
 [One year in and looking forward] (https://18f.gsa.gov/2015/03/20/one-year-in-and-looking-forward/)
