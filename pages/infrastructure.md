@@ -1,6 +1,7 @@
 ---
 permalink: /business-lines/infrastructure/
 title: Infrastructure
+parent: Business Lines
 ---
 
 18F’s Infrastructure Services team provides agencies with industry-leading infrastructure and software services through Blanket Purchase Agreements (BPAs).
