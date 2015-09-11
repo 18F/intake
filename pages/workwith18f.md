@@ -1,8 +1,7 @@
 ---
-permalink: /work-with-18f/
+permalink: /work-with-18F/
 title: Interested in working with 18F?
 ---
-## Interested in working with 18F?
 
 ### What are we looking for?
 
