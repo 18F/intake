@@ -43,7 +43,7 @@ navigation:
 - text: Past Work
   url: past-work/
   internal: true
-- text: Lines of Business
+- text: Business Lines
   url: business-lines/
   internal: true
   children:
