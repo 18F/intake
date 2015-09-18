@@ -6,13 +6,13 @@ parent: Business Lines
 
 18F’s Infrastructure Services team provides agencies with industry-leading infrastructure and software services through Blanket Purchase Agreements (BPAs).
 
-#### 18F Infrastructure Services is:
+### 18F Infrastructure Services is:
 
 * A way to obtain industry leading infrastructure and software services quickly.
 * A mechanism to sell on demand at fixed-unit prices.
 * A pre-competed service that is currently in very high demand but is still faster than traditional procurement processes.
 
-#### We currently offer infrastructure and software solutions for:
+### We currently offer infrastructure and software solutions for:
 
 * Cloud hosting and infrastructure as a service (for example: Amazon Web Services)
 * Content delivery networks (for example: Akamai, AWS CloudFront)
