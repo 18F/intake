@@ -34,6 +34,9 @@ navigation:
 - text: Working with 18F
   url: work-with-18F/
   internal: true
+- text: Partnership Playbook
+  url: https://pages.18f.gov/Partnership-Playbook/
+  internal: false
 - text: Cost and IAA Details
   url: cost-and-IAA/
   internal: true
