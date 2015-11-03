@@ -10,9 +10,10 @@ Let's talk! This page walks you through our intake process so you know what to e
 #### Preliminary
 
 First, please email us at [inquiries18f.gsa.gov](mailto:inquiries18f.gsa.gov). Include this information in your note:
-   * The name of your agency
-   * A brief description of your project or the challenge you are trying to solve.
-   * Dates and times you're available for a 45 minute introductory call in the next two weeks. 
+
+  * The name of your agency
+  * A brief description of your project or the challenge you are trying to solve.
+  * Dates and times you're available for a 45 minute introductory call in the next two weeks. 
 
 We'll get back to you within 1-3 business days.
 
@@ -25,5 +26,6 @@ Once we bring in a technical team, you can expect one or more “deep dive” me
 #### Live Project
 
 When we have a match:
+
    * The product lead will work with you to scope the Statement of Work.
    * Our contracting team will work with you to set up the Memorandum of Understanding (MOU) or Interagency Agreement (IAA).
