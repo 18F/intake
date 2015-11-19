@@ -77,7 +77,7 @@ PLATFORMS
 DEPENDENCIES
   go_script
   guides_style_18f
-  jekyll
+  jekyll (= 2.5.3)
   rouge
 
 BUNDLED WITH
