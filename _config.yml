@@ -31,9 +31,9 @@ navigation:
 - text: Who is 18F?
   url: introducing-18F/
   internal: true
-- text: Working with 18F
-  url: work-with-18F/
-  internal: true
+- text: Delivery Partnership Playbook
+  url: https://pages.18f.gov/partnership-playbook/
+  internal: false
 - text: Cost and IAA Details
   url: cost-and-IAA/
   internal: true
