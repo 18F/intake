@@ -34,8 +34,8 @@ navigation:
 - text: Delivery Partnership Playbook
   url: https://pages.18f.gov/partnership-playbook/
   internal: false
-- text: Cost and IAA Details
-  url: cost-and-IAA/
+- text: Funding and IAA Details
+  url: funding-and-iaa/
   internal: true
 - text: 18F's Intake Process
   url: intake-process/
