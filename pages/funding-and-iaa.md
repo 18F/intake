@@ -29,8 +29,8 @@ to help determine whether you are ready to draft an Interagency
 Agreement with 18F.
 
 -   Do you know the expiration date of your funds?
--   Are you prepared for a scenario where the burn -rate on the IAA is higher than expected?
--   Are you prepared for a scenario where the burn -rate on the IAA is lower than expected (and where you may have leftover funds at the end of a fiscal year?)
+-   Are you prepared for a scenario where the burn-rate on the IAA is higher than expected?
+-   Are you prepared for a scenario where the burn-rate on the IAA is lower than expected (and where you may have leftover funds at the end of a fiscal year?)
 
 We are happy to answer your questions on this as we discuss your
 challenges and how 18F can help.
