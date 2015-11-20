@@ -26,7 +26,7 @@ the skills of your in-house team.
 Innovative Technologies](http://www.gsa.gov/portal/category/25729)/18F
 within the General Services Administration. We’re a 100 percent cost
 recoverable organization. To read more about our cost-recoverable
-status, visit our Funding and IAA page [LINK].
+status, visit our [Funding and IAA page](https://pages.18f.gov/intake/funding-and-iaa/).
 
 Want to read more about our work? You can start with
 [a snapshot of 18F on our one year anniversary](https://18f.gsa.gov/2015/03/19/18f-by-the-numbers/) and
