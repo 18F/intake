@@ -28,8 +28,8 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Who is 18F?
-  url: introducing-18F/
+- text: Get to know 18F
+  url: get-to-know-18F/
   internal: true
 - text: Working with 18F
   url: work-with-18F/

@@ -1,7 +1,5 @@
----
-permalink: /get-to-know-18F/
-title: Get to know 18F
----
+**Get to know 18F**
+===================
 
 18F is a civic digital consultancy *for* the government *inside* the
 government. Our goal is to change how the government buys and develops
