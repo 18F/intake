@@ -34,8 +34,8 @@ navigation:
 - text: Working with 18F
   url: work-with-18F/
   internal: true
-- text: Cost and IAA Details
-  url: cost-and-IAA/
+- text: Funding and IAA Details
+  url: funding-and-IAA/
   internal: true
 - text: 18F's Intake Process
   url: intake-process/
