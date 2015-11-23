@@ -21,7 +21,7 @@ transactions online for a smoother, easier user experience.
 
 ### [myUSCIS](https://my.uscis.gov/)
 
-![The myUSCIS homepage.](/intake/assets/images/past-work/myuscis.jpg)
+[![The myUSCIS homepage.](/intake/assets/images/past-work/myuscis.jpg)](https://my.uscis.gov/)
 
 We’re working with the U.S. Digital Service to move the U.S. Citizenship
 and Immigration Services (USCIS) from a form-centric website to a
@@ -32,7 +32,7 @@ system for applicants.
 
 ### [betaFEC](https://beta.fec.gov/)
 
-![The betaFEC homepage.](/intake/assets/images/past-work/beta-fec.jpg)
+[![The betaFEC homepage.](/intake/assets/images/past-work/beta-fec.jpg)](https://beta.fec.gov/)
 
 The Federal Election Commission (FEC) has long been a pioneer of open
 data, but 18F was able to help the FEC build its [first public
@@ -52,7 +52,7 @@ interactive and informative tool on top of the data.
 
 ### [College Scorecard](https://collegescorecard.ed.gov/)
 
-![The College Scorecard homepage.](/intake/assets/images/past-work/college-scorecard.jpg)
+[![The College Scorecard homepage.](/intake/assets/images/past-work/college-scorecard.jpg)](https://collegescorecard.ed.gov/)
 
 The College Scorecard site is an example of what 18F can do to help your
 agency provide an interactive, well-designed way for the public to
@@ -66,7 +66,7 @@ project](https://18f.gsa.gov/2015/09/14/college-scorecard-launch/).
 
 ### [U.S. Extractive Industries Transparency Initiative](https://useiti.doi.gov/)
 
-![The U.S. Extractive Industries Transparency Initiative homepage.](/intake/assets/images/past-work/eiti.jpg)
+[![The U.S. Extractive Industries Transparency Initiative homepage.](/intake/assets/images/past-work/eiti.jpg)](https://useiti.doi.gov/)
 
 The U.S. Extractive Industries Transparency Initiative website allows
 the U.S. Department of the Interior to educate the public about energy
@@ -88,7 +88,7 @@ the challenges in their path.
 
 ### [CALC](https://calc.gsa.gov/)
 
-![An animated demonstration of the CALC tool.](/intake/assets/images/past-work/calc.gif)
+[![An animated demonstration of the CALC tool.](/intake/assets/images/past-work/calc.gif)](https://calc.gsa.gov/)
 
 The Contract Awarded Labor Category (CALC) tool helps the federal
 contracting community make smarter, faster buying decisions by allowing
@@ -100,7 +100,7 @@ here](https://18f.gsa.gov/2015/05/12/announcing-the-calc-tool/).
 
 ### [Communicart](https://cap.18f.gov/)
 
-![The Communicart homepage.](/intake/assets/images/past-work/communicart.jpg)
+[![The Communicart homepage.](/intake/assets/images/past-work/communicart.jpg)](https://cap.18f.gov/)
 
 Communicart is a simplified, email-based purchasing approval tool for
 purchase card holders authorized to buy office supplies for the
@@ -119,7 +119,7 @@ have a smooth launch.
 
 ### [\#TheNew10](https://thenew10.treasury.gov/)
 
-![The homepage for the Department of the Treasury's #TheNew10 campaign.](/intake/assets/images/past-work/new-10.jpg)
+[![The homepage for the Department of the Treasury's #TheNew10 campaign.](/intake/assets/images/past-work/new-10.jpg)](https://thenew10.treasury.gov/)
 
 Our consulting team worked with the Department of the Treasury on their
 digital strategy around the redesign of the \$10 bill, consulted on
@@ -137,7 +137,7 @@ project.
 
 ### [The Field Operations Handbook](https://18f.gsa.gov/2015/09/09/how-a-two-day-spring-moved-an-agency-twenty-years-forward/)
 
-![The combined team from 18F and the Department of Labor working on the prototype for the online Field Operations Handbook.](/dol-handbook.jpg)
+[![The combined team from 18F and the Department of Labor working on the prototype for the online Field Operations Handbook.](/intake/assets/images/past-work/dol-handbook.jpg)](https://18f.gsa.gov/2015/09/09/how-a-two-day-spring-moved-an-agency-twenty-years-forward/)
 
 In two days, our consulting team was able to work with a team at the
 Department of Labor’s Wage and Hour Division to take the four-volume,
@@ -154,7 +154,7 @@ create their own site or service.
 
 ### [cloud.gov](https://cloud.gov/)
 
-![The cloud.gov homepage.](/intake/assets/images/past-work/cloud-gov.jpg)
+[![The cloud.gov homepage.](/intake/assets/images/past-work/cloud-gov.jpg)](https://cloud.gov/)
 
 cloud.gov includes a Platform-as-a-Service (PaaS) specifically built for
 government, based on the open source Cloud Foundry. It provides a
@@ -166,7 +166,7 @@ time.
 
 ### [Federalist](https://federalist.18f.gov/)
 
-![The homepage of the Social and Behavior Science Team, which was build using the Federalist platform.](/intake/assets/images/past-work/federalist.png)
+[![The homepage of the Social and Behavior Science Team, which was build using the Federalist platform.](/intake/assets/images/past-work/federalist.png)](https://federalist.18f.gov/)
 
 The Federalist platform is a suite of tools designed to make it faster
 and cheaper for government agencies to build websites that are secure,
