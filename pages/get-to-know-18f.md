@@ -16,7 +16,7 @@ effectively manage and deliver digital services. experts can also offer
 advice on buying digital services from private vendors and increasing
 the skills of your in-house team.
 
-## We accomplish our mission by:**
+## We accomplish our mission by:
 
 -   Putting the needs of users first
 -   Being design-centric, agile, open, and data-driven
