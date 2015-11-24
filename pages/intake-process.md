@@ -28,6 +28,6 @@ When we have a match:
    * The product lead will work with you to scope the Statement of Work.
    * Our contracting team will work with you to set up the Memorandum of Understanding (MOU) or Interagency Agreement (IAA).
 
-Here's a diagram of the intake process across these three stages.
+### Here's a diagram of the intake process across these three stages.
 
-![A diagram of the 18F intake process](/assets/images/intake-process.jpg)
+![A diagram of the 18F intake process](/intake/assets/images/intake-process.jpg)
