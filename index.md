@@ -10,8 +10,8 @@ the Business Strategy team, which includes [Will
 Slack](https://18f.gsa.gov/team/will/) and [Stephanie
 Rivera](https://18f.gsa.gov/team/stephanierivera/).
 
-<div style="float: left; width: 200px; margin-left: 20px; margin-right: 10px;"><img src="https://18f.gsa.gov/assets/images/team/will.jpg">
-<div style="float: right; width: 200px; margin-left: 10px; margin-right: 20px;"><img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg">
+<div style="float: left; width: 200px; margin-left: 20px; margin-right: 10px;"><img src="https://18f.gsa.gov/assets/images/team/will.jpg"></div>
+<div style="float: right; width: 200px; margin-left: 10px; margin-right: 20px;"><img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg"></div>
 
 Our intake process is itself an iterative project. We wrote [this blog
 post](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)
