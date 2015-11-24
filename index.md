@@ -4,12 +4,11 @@ title: Welcome to the 18F Intake site
 ---
 
 
-<div style="float: right; width: 100px; margin-left: 10px; margin-right: 10px;"><a href="https://18f.gsa.gov/team/will/"><img src="https://18f.gsa.gov/assets/images/team/will.jpg"></a></div>
-<p><em>[Will
-Slack](https://18f.gsa.gov/team/will/)</em></p>
-<div style="float: right; width: 100px; margin-left: 10px; margin-right: 10px;"><a href="https://18f.gsa.gov/team/stephanierivera/"><img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg"></a></div>
-<p><em>[Stephanie
-Rivera](https://18f.gsa.gov/team/stephanierivera/)</em></p>
+<div style="float: right; width: 125px; margin-left: 10px; margin-right: 10px;"><a href="https://18f.gsa.gov/team/will/"><img src="https://18f.gsa.gov/assets/images/team/will.jpg"></a><p><a href="https://18f.gsa.gov/team/will/"><em>Will
+Slack</em></a></p></div>
+
+<div style="float: right; width: 125px; margin-left: 10px; margin-right: 10px;"><a href="https://18f.gsa.gov/team/stephanierivera/"><img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg"></a><p><a href="https://18f.gsa.gov/team/stephanierivera/"><em>Stephanie
+Rivera</em></a></p></div>
 
 Intake is the process by which 18F listens to potential partners,
 discusses possible solutions to your challenges, and figures out what to
