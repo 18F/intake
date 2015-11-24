@@ -10,7 +10,7 @@ experts with a wide range of talents, and we’re ready and waiting to
 work with your agency to define a specific challenge and build a
 solution that’s just right for you.
 
-Website modernization
+<a name="modernization"></a>Website modernization
 ---------------------
 
 We'll conduct user research to help your team evaluate the services and
@@ -42,7 +42,7 @@ more accessible to the public, as part of a larger redesign of the FEC’s
 online presence. [Read more about the site and why we’ve released it as
 a beta.](https://18f.gsa.gov/2015/10/29/welcome-to-betafec/)
 
-Data projects
+<a name="data"></a>Data projects
 -------------
 
 Our team of experts will help your agency create a API for your data so
@@ -76,7 +76,7 @@ revenue data. Read more about the [user-centered design
 methods](https://18f.gsa.gov/2014/09/25/design-studio-onrr/) we used
 for the site.
 
-Internal tools
+<a name="internal"></a>Internal tools
 --------------
 
 Does your team have an internal process that relies on outdated
@@ -109,7 +109,7 @@ federal employees could drastically reduce the time they spend on
 purchase card approvals. [Read more about how Communicart
 works](https://18f.gsa.gov/2015/08/06/communicart-tool-will-streamline-purchase-card-process/).
 
-Digital strategy
+<a name="strategy"></a>Digital strategy
 ----------------
 
 Our digital strategy experts are ready to help advise your agency on the
@@ -126,7 +126,7 @@ digital strategy around the redesign of the \$10 bill, consulted on
 content and visual design for the website, and helped shape the social
 media rollout.
 
-Design and development workshops
+<a name="workshops"></a>Design and development workshops
 --------------------------------
 
 Not ready for a long-term engagement? Our cross-discipline team can work
@@ -145,7 +145,7 @@ printed Field Operations Handbook and create an internal prototype of an
 online, searchable version. We were also able to demonstrate the power
 of using agile design and development methods.
 
-Platforms
+<a name="platforms"></a>Platforms
 ---------
 
 In addition to building custom digital services, we also develop

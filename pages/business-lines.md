@@ -1,6 +1,6 @@
 ---
 permalink: /business-lines/
-title: Business Lines
+title: Business lines
 ---
 
 18F has a variety of services provided under 4 business lines.

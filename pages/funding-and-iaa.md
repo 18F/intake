@@ -1,6 +1,6 @@
 ---
 permalink: /funding-and-iaa/
-title: Funding and IAA Details
+title: Funding and IAA details
 ---
 
 ## How 18F is funded:
