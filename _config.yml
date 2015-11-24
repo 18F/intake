@@ -31,19 +31,36 @@ navigation:
 - text: Get to know 18F
   url: get-to-know-18F/
   internal: true
-- text: Delivery Partnership Playbook
-  url: https://pages.18f.gov/partnership-playbook/
-  internal: false
-- text: Funding and IAA Details
-  url: funding-and-iaa/
-  internal: true
-- text: 18F's Intake Process
+  children:
+    - text: Delivery Partnership Playbook (external)
+    - url: https://pages.18f.gov/partnership-playbook/
+    - internal: false
+- text: 18F's intake process
   url: intake-process/
   internal: true
-- text: Past Work
+- text: Past work
   url: past-work/
   internal: true
-- text: Business Lines
+  children:
+    - text: Website modernization
+    - url: /past-work/#modernization
+    - internal: true
+    - text: Data projects
+    - url: /past-work/#data
+    - internal: true
+    - text: Internal tools
+    - url: /past-work/#internal
+    - internal: true
+    - text: Digital strategy
+    - url: /past-work/#strategy
+    - internal: true
+    - text: Design and development workshops
+    - url: /past-work/#workshops
+    - internal: true
+    - text: Platforms
+    - url: /past-work/#platforms
+    - internal: true
+- text: Business lines
   url: business-lines/
   internal: true
   children:
@@ -56,10 +73,9 @@ navigation:
   - text: Infrastructure
     url: infrastructure/
     internal: true
-  - text: Talent
-    url: talent/
-    internal: true
-
+- text: Funding and IAA details
+  url: funding-and-iaa/
+  internal: true
 
 repos:
 - name: Intake
