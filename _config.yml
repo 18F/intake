@@ -43,22 +43,22 @@ navigation:
   internal: true
   children:
   - text: Website modernization
-    url: /past-work/#modernization
+    url: /#modernization
     internal: true
   - text: Data projects
-    url: /past-work/#data
+    url: /#data
     internal: true
   - text: Internal tools
-    url: /past-work/#internal
+    url: /#internal
     internal: true
   - text: Digital strategy
-    url: /past-work/#strategy
+    url: /#strategy
     internal: true
   - text: Design and development workshops
-    url: /past-work/#workshops
+    url: /#workshops
     internal: true
   - text: Platforms
-    url: /past-work/#platforms
+    url: /#platforms
     internal: true
 - text: Business lines
   url: business-lines/
