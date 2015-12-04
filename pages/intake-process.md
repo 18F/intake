@@ -30,4 +30,4 @@ When we have a match:
 
 ### Here's a diagram of the intake process across these three stages.
 
-![A diagram of the 18F intake process](/intake/assets/images/intake-process.jpg)
+[![A diagram of the 18F intake process]({{ site.baseurl }}/assets/images/intake-process.jpg)]({{ site.baseurl }}/assets/images/intake-process.jpg)
