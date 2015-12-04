@@ -28,8 +28,53 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Explaining 18F's intake process
+- text: Get to know 18F
+  url: get-to-know-18F/
+  internal: true
+  children:
+  - text: Delivery Partnership Playbook (external)
+    url: https://pages.18f.gov/partnership-playbook/
+    internal: false
+- text: 18F's intake process
   url: intake-process/
+  internal: true
+- text: Past work
+  url: past-work/
+  internal: true
+  children:
+  - text: Website modernization
+    url: /#modernization
+    internal: true
+  - text: Data projects
+    url: /#data
+    internal: true
+  - text: Internal tools
+    url: /#internal
+    internal: true
+  - text: Digital strategy
+    url: /#strategy
+    internal: true
+  - text: Design and development workshops
+    url: /#workshops
+    internal: true
+  - text: Platforms
+    url: /#platforms
+    internal: true
+- text: Business lines
+  url: business-lines/
+  internal: true
+  children:
+  - text: Delivery
+    url: https://18f.gsa.gov/delivery/
+    internal: false
+  - text: Consulting
+    url: https://18f.gsa.gov/consulting/
+    internal: false
+  - text: Infrastructure
+    url: infrastructure/
+    internal: true
+- text: Funding and IAA details
+  url: funding-and-iaa/
   internal: true
 
 repos:
