@@ -2,3 +2,38 @@
 ---
 
 @import "guides_style_18f";
+
+// Below are specific styles for the "intake" section of 18F guides. Any styles specific for these pages 
+// should be added here, but be sure to checkout the styles inherited for reference too: 
+// https://github.com/18F/guides-style/tree/master/lib/guides_style_18f
+
+
+a.team-img {
+  padding: 0 20px;
+  float: right;
+  border-bottom: none !important;
+
+  img {
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    width: 200px;
+    height: auto;
+
+  }
+}
+
+.main-content {
+  img {  
+    width: 100%;
+
+  }
+}
+
+// Mobile view; max-width value taken from pages default styles.
+@media screen and (max-width: 40.5em) {
+  a.team-img {
+     float: none;
+    
+  }
+}
