@@ -36,13 +36,11 @@ Stephanie works with people across the federal government to make 18F a great pl
   Read more about Stephanie >>
 </a>
 
-
-#### Will Slack, Business Strategy Deputy Director
-
 <a href="https://18f.gsa.gov/team/will/" target="_blank" class="team-img">
   <img src="https://18f.gsa.gov/assets/images/team/will.jpg" alt="Will Slack, Business Strategy Deputy Director">
 </a>
 
+#### Will Slack, Business Strategy Deputy Director
 
 Will is building the infrastructure for project intake at 18F.
 
