@@ -42,9 +42,9 @@ Stephanie works with people across the federal government to make 18F a great pl
 
 #### Will Slack, Business Strategy Deputy Director
 
-Will is building the infrastructure for project intake at 18F.
+Will manages project intake at 18F.
 
-In his words: "My job is to figure out the most effective ways 18F can continue to do good work and grow. I look at everything from the projects we choose to take on to how we position ourselves within GSA and the USDS family. I touch all projects coming into delivery but also help across the board with documentation, onboarding, and other projects."
+In his words: "My job is to help 18F continue to take on great projects as we grow by managing how we represent 18F to potential partners and then represent those possible projects to 18F. I also look at everything from our competiting priorities to how we position ourselves within GSA and the wider Digital Coalition. Besides facilitating intake, I help across the board with bureaucracy hacking, documentation, and other projects."
 
 <a href="https://18f.gsa.gov/team/will/" target="_blank">
   Read more about Will >>
