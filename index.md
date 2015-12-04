@@ -52,6 +52,6 @@ In his words: "My job is to figure out the most effective ways 18F can continue 
 
 ### Contact Us
 Please email us at
-[[inquiries18F@gsa.gov](mailto:inquiries18f@gsa.gov)] with general
+[inquiries18F@gsa.gov](mailto:inquiries18f@gsa.gov) with general
 inquiries, or contact us using [this
 form](https://docs.google.com/a/gsa.gov/forms/d/1CDATOcmHy5HO2-pfPaG5cunVP7Wk5VCBsKommRmztLM/viewform).
