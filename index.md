@@ -3,18 +3,11 @@ permalink: /
 title: Welcome to the 18F Intake site
 ---
 
-<div style="float: right; width: 125px; height: 125px; margin-left: 10px; margin-right: 10px; margin-bottom: 20px;"><a href="https://18f.gsa.gov/team/will/"><img src="https://18f.gsa.gov/assets/images/team/will.jpg"></a><br /><a href="https://18f.gsa.gov/team/will/"><em>Will
-Slack</em></a></div>
-
-<div style="float: right; width: 125px; height: 125px; margin-left: 10px; margin-right: 10px; margin-bottom: 20px;"><a href="https://18f.gsa.gov/team/stephanierivera/"><img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg"></a><br /><a href="https://18f.gsa.gov/team/stephanierivera/"><em>Stephanie
-Rivera</em></a></div>
-
 Intake is the process by which 18F listens to potential partners,
 discusses possible solutions to your challenges, and figures out what to
-do next. In short, it’s how we do business development. Intake is run by
-the Business Strategy team, which includes [Will
-Slack](https://18f.gsa.gov/team/will/) and [Stephanie
-Rivera](https://18f.gsa.gov/team/stephanierivera/).
+do next. In short, it’s how we do business development.
+
+### Our Process
 
 Our intake process is itself an iterative project. We wrote [this blog
 post](https://18f.gsa.gov/2014/09/18/getting-to-work-for-the-american-people/)
@@ -27,7 +20,39 @@ to outline up front some of the 18F values that come up in our process,
 and we've added extra steps to our intake discussions with you to make
 sure we leave the process with all the information we need for an IAA.
 
-This site will walk you through our intake process and how we work.
+[Read more about our process >>]({{ site.baseurl }}/intake-process/)
+
+### Our Team
+
+<a href="https://18f.gsa.gov/team/stephanierivera/" target="_blank" class="team-img">
+  <img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg" alt="Stephanie Rivera, Business Strategy Director">
+</a>
+
+#### Stephanie Rivera, Business Strategy Director
+
+Stephanie works with people across the federal government to make 18F a great place to work. As director of business strategy, she is on the front line of new projects, ensuring that 18F projects meet our impact and user-centered goals. She is also working to optimize our current performance by ensuring 18F has the right internal policices and procedures in place for success, growth, and logevity.
+
+<a href="https://18f.gsa.gov/team/stephanierivera/" target="_blank">
+  Read more about Stephanie >>
+</a>
+
+
+#### Will Slack, Business Strategy Deputy Director
+
+<a href="https://18f.gsa.gov/team/will/" target="_blank" class="team-img">
+  <img src="https://18f.gsa.gov/assets/images/team/will.jpg" alt="Will Slack, Business Strategy Deputy Director">
+</a>
+
+
+Will is building the infrastructure for project intake at 18F.
+
+In his words: "My job is to figure out the most effective ways 18F can continue to do good work and grow. I look at everything from the projects we choose to take on to how we position ourselves within GSA and the USDS family. I touch all projects coming into delivery but also help across the board with documentation, onboarding, and other projects."
+
+<a href="https://18f.gsa.gov/team/will/" target="_blank">
+  Read more about Will >>
+</a>
+
+### Contact Us
 Please email us at
 [[inquiries18F@gsa.gov](mailto:inquiries18f@gsa.gov)] with general
 inquiries, or contact us using [this
