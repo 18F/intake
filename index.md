@@ -22,7 +22,7 @@ sure we leave the process with all the information we need for an IAA.
 
 [Read more about our process >>]({{ site.baseurl }}/intake-process/)
 
-### Our Team
+### Intake Leadership
 
 <a href="https://18f.gsa.gov/team/stephanierivera/" target="_blank" class="team-img">
   <img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg" alt="Stephanie Rivera, Business Strategy Director">
