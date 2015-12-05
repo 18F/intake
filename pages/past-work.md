@@ -152,11 +152,11 @@ In addition to building custom digital services, we also develop
 platforms that make it easy for a digital team inside your agency to
 create their own site or service.
 
-### [cloud.gov](https://cloud.gov/)
+### [cloud.gov](https://cloud.gov)
 
 [![The cloud.gov homepage.]({{ site.baseurl }}/assets/images/past-work/cloud-gov.jpg)](https://cloud.gov/)
 
-cloud.gov includes a Platform-as-a-Service (PaaS) specifically built for
+[cloud.gov](https://cloud.gov) includes a Platform-as-a-Service (PaaS) specifically built for
 government, based on the open source Cloud Foundry. It provides a
 secure, scalable platform for teams to build and host their application
 or website. It can help development teams work faster and cheaper by
