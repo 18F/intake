@@ -94,3 +94,6 @@ defaults:
       path: ""
     values:
       layout: "guides_style_18f_default"
+
+styles:
+  "assets/css/intake.css"
