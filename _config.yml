@@ -26,7 +26,7 @@ logoalt: 18F logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: Introduction
-  url: index.html
+  url: /
   internal: true
 - text: Get to know 18F
   url: get-to-know-18F/
@@ -94,3 +94,6 @@ defaults:
       path: ""
     values:
       layout: "guides_style_18f_default"
+
+styles:
+  "assets/css/intake.css"
