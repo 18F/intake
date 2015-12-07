@@ -5,9 +5,7 @@ title: Funding and IAA details
 
 ## How 18F is funded:
 
-18F is a 100 percent cost-recoverable organization. The [General
-Services Administration
-(GSA)](http://www.gsa.gov/portal/category/100000) funds 18F through the
+18F is a 100 percent cost-recoverable organization. The [General Services Administration (GSA)](http://www.gsa.gov/portal/category/100000) funds 18F through the
 [Acquisition Services Fund](http://www.gsa.gov/portal/content/182815),
 which allows for investment in the development and delivery of products
 and tools that will be used by other agencies on a reimbursable basis.
@@ -20,9 +18,7 @@ Acquisition Services Fund reimbursement authority for work related to
 acquisitions and the [Economy Act](http://www.gc.noaa.gov/documents/mou-economyact.pdf) reimbursement
 authority for all projects that cannot use ASF reimbursement authority.
 Once we have an interagency agreement (IAA) in place with an agency, we
-bill on a quarterly basis through Intra-Governmental Payment and
-Collection
-([IPAC](https://www.fiscal.treasury.gov/fsservices/gov/acctg/ipac/ipac_home.htm)).
+bill on a quarterly basis through [Intra-Governmental Payment and Collection (IPAC](https://www.fiscal.treasury.gov/fsservices/gov/acctg/ipac/ipac_home.htm)).
 
 Project cost varies substantially according to the planned scope and
 relies on factors unique to your agency and project. During your intake
