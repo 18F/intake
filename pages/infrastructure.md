@@ -4,27 +4,22 @@ title: Infrastructure
 parent: Business lines
 ---
 
-18F’s Infrastructure Services team provides agencies with industry-leading infrastructure and software services through Blanket Purchase Agreements (BPAs).
+18F’s Infrastructure Services team provides agencies with industry-leading infrastructure and software services through [Blanket Purchase Agreements (BPAs)](http://www.gsa.gov/portal/category/100643). By partnering with 18F Infrastructure, your agency will be able to quickly acquire services at fixed-unit prices from 18F’s pre-competed service. 
 
-### 18F Infrastructure Services is:
+18F Infrastructure also provides associated consultative and operational labor, including cost tracking, billing, and consultative assistance to inform your infrastructure management and ensure your services meet federal compliance requirements. This support allows you to focus on **designing and implementing an intelligent infrastructure** that meets your dynamic digital needs.
 
-* A way to obtain industry leading infrastructure and software services quickly.
-* A mechanism to sell on demand at fixed-unit prices.
-* A pre-competed service that is currently in very high demand but is still faster than traditional procurement processes.
+We also have a Platform-as-a-Service product line called [cloud.gov](cloud.gov) based on open source Cloud Foundry. Cloud.gov allows partners to create a platform where developers can deploy applications without having to worry about how their applications are run or what hardening measures are in place.
 
-### We currently offer infrastructure and software solutions for:
+### What We Offer
 
-* Cloud hosting and infrastructure as a service (for example: Amazon Web Services)
-* Content delivery networks (for example: Akamai, AWS CloudFront)
-* Voice and messaging orchestration (for example: Twilio)
-* Continuous monitoring (for example: Splunk)
-* Application performance monitoring (for example: New Relic)
+* Cloud hosting and infrastructure as a service
+* Content delivery networks
+* Voice and messaging orcestration
+* Continuous Monitoring
+* Application performance monitoring
 
-
-We have developed a Platform-as-a-Service (PaaS) called [cloud.gov](https://cloud.gov), based on the open source Cloud Foundry. This allows partners to create a platform where developers can deploy applications without having to worry about how their applications are run or what hardening measures are in place.
+Cost estimates for services will vary depending on labor required for provisioning a compliant service and cost recovery for acquisition.
 
 18F Infrastructure *doesn't* provide operations and maintenance (O&M) support beyond that which comes with the external service. As the partner, you're free to select the optimal provider for the type of O&M support you need.
 
-Through an Interagency Agreement (IAA), you can use the BPA we've already created and used for these same services, avoiding the cost and time required for a fresh procurement.
-
-18F Infrastructure allows you to focus on designing and implementing an intelligent infrastructure that meets your dynamic digital needs.
+Ready to begin work with 18F Infrastructure? Contact us at [Inquiries18F@gsa.gov](mailto:Inquiries18F@gsa.gov) to arrange an initial meeting.
