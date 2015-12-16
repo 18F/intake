@@ -5,7 +5,7 @@ title: Welcome to the 18F Intake site
 
 Intake is the process by which 18F listens to potential partners,
 discusses possible solutions to your challenges, and figures out what to
-do next. In short, it’s how we do business development.
+do next. In short, it’s how we do business development. Please note that due to how our funding mechanisms work, we can only execute on formal work with federal or DC gov't partners.
 
 ### Our Process
 
