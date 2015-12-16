@@ -17,7 +17,7 @@ We'll get back to you within 1-3 business days. You can also use [this form](htt
 
 ## Investigation and decision
 
-During the introductory call with the Intake Team, we’ll tell you more about 18F, our history, our lines of business, and [how we work](https://pages.18f.gov/Partnership-Playbook/). Afterward, we’ll direct your inquiry to the appropriate business lines (Delivery, Consulting, Infrastructure, Talent) for further discussion on resources, timing and if 18F is the right partner for the challenge.
+During the introductory call with the Intake Team, we’ll tell you more about 18F, our history, our lines of business, and [how we work](https://pages.18f.gov/Partnership-Playbook/). Afterward, we’ll direct your inquiry to the appropriate business lines (Delivery, Consulting, Infrastructure) for further discussion on resources, timing and if 18F is the right partner for the challenge.
 
 Once we bring in a technical team, you can expect one or more “deep dive” meetings as we evaluate the resources that would be needed, and move through a process of understanding the problem. Sometimes we will recommend a workshop with users to take a look at the problem directly (this might happen before we scope the project).
 
