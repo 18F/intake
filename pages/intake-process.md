@@ -13,7 +13,7 @@ First, please email us at [inquiries18f.gsa.gov](mailto:inquiries18f.gsa.gov). I
   * A brief description of your project or the challenge you are trying to solve.
   * Dates and times you're available for a 45 minute introductory call in the next two weeks.
 
-We'll get back to you within 1-3 business days.
+We'll get back to you within 1-3 business days. You can also use [this form](https://docs.google.com/a/gsa.gov/forms/d/1CDATOcmHy5HO2-pfPaG5cunVP7Wk5VCBsKommRmztLM/viewform) to submit an inquiry.
 
 ## Investigation and decision
 
