@@ -4,7 +4,7 @@ title: Infrastructure
 parent: Business lines
 ---
 
-18F’s Infrastructure Services team provides agencies with industry-leading infrastructure and software services through [Blanket Purchase Agreements (BPAs)](http://www.gsa.gov/portal/category/100643). By partnering with 18F Infrastructure, your agency will be able to quickly acquire services at fixed-unit prices from 18F’s pre-competed service. 
+18F’s Infrastructure Services team provides agencies with **industry-leading infrastructure and software services** through [Blanket Purchase Agreements (BPAs)](http://www.gsa.gov/portal/category/100643). By partnering with 18F Infrastructure, your agency will be able to quickly acquire services at fixed-unit prices from 18F’s pre-competed service. 
 
 18F Infrastructure also provides associated consultative and operational labor, including cost tracking, billing, and consultative assistance to inform your infrastructure management and ensure your services meet federal compliance requirements. This support allows you to focus on **designing and implementing an intelligent infrastructure** that meets your dynamic digital needs.
 
