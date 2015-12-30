@@ -7,7 +7,7 @@ Let's talk! This page walks you through our intake process so you know what to e
 
 ## Preliminary
 
-First, please email us at [inquiries18f.gsa.gov](mailto:inquiries18f.gsa.gov). Include this information in your note:
+First, please email us at [inquiries18f@gsa.gov](mailto:inquiries18f@gsa.gov). Include this information in your note:
 
   * The name of your agency
   * A brief description of your project or the challenge you are trying to solve.
