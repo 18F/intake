@@ -1,6 +1,6 @@
 ---
 Permalink: /Products and Platforms/
-Tile: Products and Platforms/
+Tile: Products and Platforms
 ---
 
 ## Products and Platforms
