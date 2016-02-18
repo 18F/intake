@@ -1,5 +1,5 @@
 ---
-Permalink: /business-lines/Products and Platforms/
+Permalink: /business-lines/Products-and-Platforms/
 Tile: Products and Platforms
 ---
 
