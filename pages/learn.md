@@ -1,6 +1,6 @@
 ---
-Permalink: /business-lines/learn/
-Title: Learn 
+permalink: /business-lines/learn/
+title: Learn 
 ---
 
 - Increasing the skill sets of technologists and the capacities of digital service teams across the federal government through education, evangelism, outreach, and communication tools and practices
