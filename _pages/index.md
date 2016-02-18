@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: Welcome to the 18F Intake site
+navtitle: Introduction
 ---
 
 Intake is the process by which 18F listens to potential partners,
