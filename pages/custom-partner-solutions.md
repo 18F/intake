@@ -1,6 +1,6 @@
 ---
-Permalink: /business-lines/custom-partner-solutions/
-Title: Custom Partner Solutions 
+permalink: /business-lines/custom-partner-solutions/
+title: Custom Partner Solutions 
 ---
 
 - Provides agencies with custom application solutions that deeply impact mission achievement. Also engages in short- to medium-term consulting to assist agencies in deciding What to build, How to build it, and Who will build it
