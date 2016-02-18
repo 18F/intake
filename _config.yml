@@ -44,12 +44,6 @@ navigation:
   url: business-lines/
   internal: true
   children:
-  - text: Delivery
-    url: https://18f.gsa.gov/delivery/
-    internal: false
-  - text: Consulting
-    url: https://18f.gsa.gov/consulting/
-    internal: false
   - text: Acquisition Services
     url: acquisition-services/
     internal: true
