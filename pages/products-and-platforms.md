@@ -1,6 +1,6 @@
 ---
-Permalink: /business-lines/products-and-platforms/
-Tile: Products and Platforms
+permalink: /business-lines/products-and-platforms/
+tile: Products and Platforms
 ---
 
 - Provides agencies with access to tools that address common government-wide needs via single, scalable products and platforms
