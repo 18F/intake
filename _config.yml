@@ -25,7 +25,7 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Welcome to the 18F Intake site
+- text: Introduction
   internal: true
 - text: Get to know 18F
   url: get-to-know-18F/
