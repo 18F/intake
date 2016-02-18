@@ -1,5 +1,5 @@
 ---
-Permalink: /custom partner solutions/
+Permalink: /business-lines/custom partner solutions/
 Title: Custom Partner Solutions 
 ---
 ## Custom Partner Solutions 
