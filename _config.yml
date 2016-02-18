@@ -25,9 +25,6 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
-  url: /
-  internal: true
 - text: Get to know 18F
   url: get-to-know-18F/
   internal: true
@@ -35,31 +32,12 @@ navigation:
   - text: Delivery Partnership Playbook (external)
     url: https://pages.18f.gov/partnership-playbook/
     internal: false
-- text: 18F's intake process
+- text: Explaining 18F's intake process
   url: intake-process/
   internal: true
 - text: Past work
   url: past-work/
   internal: true
-  children:
-  - text: Website modernization
-    url: /#modernization
-    internal: true
-  - text: Data projects
-    url: /#data
-    internal: true
-  - text: Internal tools
-    url: /#internal
-    internal: true
-  - text: Digital strategy
-    url: /#strategy
-    internal: true
-  - text: Design and development workshops
-    url: /#workshops
-    internal: true
-  - text: Platforms
-    url: /#platforms
-    internal: true
 - text: Business lines
   url: business-lines/
   internal: true
@@ -70,8 +48,20 @@ navigation:
   - text: Consulting
     url: https://18f.gsa.gov/consulting/
     internal: false
-  - text: Infrastructure
-    url: infrastructure/
+  - text: Acquisition Services
+    url: acquisition-services/
+    internal: true
+  - text: Custom Partner Solutions
+    url: custom-partner-solutions/
+    internal: true
+  - text: Learn
+    url: learn/
+    internal: true
+  - text: Products and Platforms
+    url: products-and-platforms/
+    internal: true
+  - text: Transformation Services
+    url: transformation-services/
     internal: true
 - text: Funding and IAA details
   url: funding-and-iaa/
@@ -85,6 +75,11 @@ repos:
 back_link:
   url: "https://pages.18f.gov/"
   text: Read more 18F Pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 google_analytics_ua: UA-48605964-19
 
