@@ -18,7 +18,7 @@ Our intake process is itself an iterative project. We wrote [this blog post](htt
   <img src="https://18f.gsa.gov/assets/images/team/will.jpg" alt="Will Slack, 18F Business Strategy Deputy Director">
 </a>
 
-#### Will Slack, Business Strategy Deputy Director
+#### Will Slack, 18F Business Strategy Deputy Director
 
 Will faciliates project intake at 18F.
 
