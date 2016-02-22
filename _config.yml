@@ -59,8 +59,8 @@ navigation:
   - text: Platforms
     url: /#platforms
     internal: true
-- text: Business lines
-  url: business-lines/
+- text: Business units
+  url: business-units/
   internal: true
   children:
   - text: Acquisition Services
