@@ -40,6 +40,25 @@ navigation:
 - text: Past work
   url: past-work/
   internal: true
+  children:
+  - text: Website modernization
+    url: /#modernization
+    internal: true
+  - text: Data projects
+    url: /#data
+    internal: true
+  - text: Internal tools
+    url: /#internal
+    internal: true
+  - text: Digital strategy
+    url: /#strategy
+    internal: true
+  - text: Design and development workshops
+    url: /#workshops
+    internal: true
+  - text: Platforms
+    url: /#platforms
+    internal: true
 - text: Business lines
   url: business-lines/
   internal: true
