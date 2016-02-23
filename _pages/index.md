@@ -14,6 +14,18 @@ Our intake process is itself an iterative project. We wrote [this blog post](htt
 
 ### Intake Leadership
 
+<a href="https://18f.gsa.gov/team/stephanierivera/" target="_blank" class="team-img">
+  <img src="https://18f.gsa.gov/assets/images/team/stephanierivera.jpg" alt="Stephanie Rivera, Business Strategy Director">
+</a>
+
+#### Stephanie Rivera, Business Strategy Director
+
+Stephanie works with people across the federal government to make 18F a great place to work. As director of business strategy, she is on the front line of new projects, ensuring that 18F projects meet our impact and user-centered goals. She is also working to optimize our current performance by ensuring 18F has the right internal policices and procedures in place for success, growth, and logevity.
+
+<a href="https://18f.gsa.gov/team/stephanierivera/" target="_blank">
+  Read more about Stephanie >>
+</a>
+
 <a href="https://18f.gsa.gov/team/will/" target="_blank" class="team-img">
   <img src="https://18f.gsa.gov/assets/images/team/will.jpg" alt="Will Slack, 18F Business Strategy Deputy Director">
 </a>
