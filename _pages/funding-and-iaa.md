@@ -55,6 +55,3 @@ Each IAA has two major components:
 In most cases, completing the IAA process takes about four weeks, and
 18F will take the first step by drafting a statement of work for your
 agency’s review.
-
-To learn more about IAAs and see our Additional Terms, please visit our
-[Interagency Agreement site](https://pages.18f.gov/iaa-forms/).
