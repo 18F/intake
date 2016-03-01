@@ -4,7 +4,7 @@ title: Welcome to the 18F Intake site
 navtitle: Introduction
 ---
 
-Intake is the process by which 18F listens to potential partners, discusses possible solutions to your challenges, and determines appropiate next steps. In short, it’s how we do business development fo inbound inquiries. Please note that due to how our funding mechanisms work, we must be funded by federal or DC gov't dollars.
+Intake is the process by which 18F listens to potential partners, discusses possible solutions to your challenges, and determines appropriate next steps. In short, it’s how we do business development for inbound inquiries. Please note that due to how our funding mechanisms work, we must be funded by federal or DC government dollars.
 
 ### Our Process
 
@@ -20,7 +20,7 @@ Our intake process is itself an iterative project. We wrote [this blog post](htt
 
 #### Stephanie Rivera, Business Strategy Director
 
-Stephanie works with people across the federal government to make 18F a great place to work. As director of business strategy, she is on the front line of new projects, ensuring that 18F projects meet our impact and user-centered goals. She is also working to optimize our current performance by ensuring 18F has the right internal policices and procedures in place for success, growth, and logevity.
+Stephanie works with people across the federal government to make 18F a great place to work. As director of business strategy, she is on the front line of new projects, ensuring that 18F projects meet our impact and user-centered goals. She is also working to optimize our current performance by ensuring 18F has the right internal policices and procedures in place for success, growth, and longevity.
 
 <a href="https://18f.gsa.gov/team/stephanierivera/" target="_blank">
   Read more about Stephanie >>
@@ -32,9 +32,9 @@ Stephanie works with people across the federal government to make 18F a great pl
 
 #### Will Slack, 18F Business Strategy Deputy Director
 
-Will faciliates project intake at 18F.
+Will facilitates project intake at 18F.
 
-In his words: "My job is to help 18F continue to take on great projects as we grow by managing how we represent 18F to potential partners and then represent those possible projects to 18F. I also look at everything from our competiting priorities to how we position ourselves within GSA and the wider Digital Coalition. Besides facilitating intake, I help across the board with bureaucracy hacking, documentation, and other projects."
+In his words: "My job is to help 18F continue to take on great projects as we grow by managing how we represent 18F to potential partners and then represent those possible projects to 18F. I also look at everything from our competing priorities to how we position ourselves within GSA and the wider Digital Coalition. Besides facilitating intake, I help across the board with bureaucracy hacking, documentation, and other projects."
 
 <a href="https://18f.gsa.gov/team/will/" target="_blank">
   Read more about Will >>
