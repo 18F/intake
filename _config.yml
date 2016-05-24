@@ -59,24 +59,24 @@ navigation:
   - text: Platforms
     url: /#platforms
     internal: true
-- text: Business units
-  url: business-units/
+- text: What we deliver
+  url: what-we-deliver/
   internal: true
   children:
-  - text: Acquisition Services
-    url: acquisition-services/
-    internal: true
-  - text: Custom Partner Solutions
+  - text: Custom products to solve your problems
     url: custom-partner-solutions/
     internal: true
-  - text: Learn
-    url: learn/
+  - text: Innovative ways to buy technology
+    url: acquisition-services/
     internal: true
-  - text: Products and Platforms
+  - text: Platforms built for government
     url: products-and-platforms/
     internal: true
-  - text: Transformation Services
+  - text: A path to becoming a digitally-powered organization
     url: transformation-services/
+    internal: true
+  - text: Modern digital service techniques
+    url: learn/
     internal: true
 - text: Funding and IAA details
   url: funding-and-iaa/
