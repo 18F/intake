@@ -1,3 +1,10 @@
+# :warning:DEPRECATED:warning:
+### The contents of this repo have been moved to https://github.com/18F/18f.gsa.gov.
+
+### https://pages.18f.gov/intake/ is now being redirected to https://18f.gsa.gov/contact/.
+
+---
+
 ## 18F Guides Template
 
 This is a 18F Pages Repo with information for possible business partners for 18F, managed by 18F's business strategy team.
